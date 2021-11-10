@@ -5,7 +5,7 @@ if "celsius" not in st.session_state:
     st.session_state.celsius = 50.0
 
 st.slider(
-    "Temperature in Celsius",
+    "How much do you love me Alona?",
     min_value=-100.0,
     max_value=100.0,
     key="celsius"
